@@ -1,0 +1,10 @@
+C:\Users\3006190\source\repos\ch3 Statium Seating Project\bin\Debug\ch3 Statium Seating Project.exe.config
+C:\Users\3006190\source\repos\ch3 Statium Seating Project\bin\Debug\ch3 Statium Seating Project.exe
+C:\Users\3006190\source\repos\ch3 Statium Seating Project\bin\Debug\ch3 Statium Seating Project.pdb
+C:\Users\3006190\source\repos\ch3 Statium Seating Project\obj\Debug\ch3 Statium Seating Project.csprojAssemblyReference.cache
+C:\Users\3006190\source\repos\ch3 Statium Seating Project\obj\Debug\ch3_Statium_Seating_Project.StadiumSeating.resources
+C:\Users\3006190\source\repos\ch3 Statium Seating Project\obj\Debug\ch3_Statium_Seating_Project.Properties.Resources.resources
+C:\Users\3006190\source\repos\ch3 Statium Seating Project\obj\Debug\ch3 Statium Seating Project.csproj.GenerateResource.cache
+C:\Users\3006190\source\repos\ch3 Statium Seating Project\obj\Debug\ch3 Statium Seating Project.csproj.CoreCompileInputs.cache
+C:\Users\3006190\source\repos\ch3 Statium Seating Project\obj\Debug\ch3 Statium Seating Project.exe
+C:\Users\3006190\source\repos\ch3 Statium Seating Project\obj\Debug\ch3 Statium Seating Project.pdb

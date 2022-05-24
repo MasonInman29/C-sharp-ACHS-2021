@@ -1,0 +1,10 @@
+C:\Users\3006190\source\repos\Automotive Pricing ch6 modularzation\obj\Debug\Automotive Pricing ch6 modularzation.csprojAssemblyReference.cache
+C:\Users\3006190\source\repos\Automotive Pricing ch6 modularzation\obj\Debug\Automotive_Pricing_ch6_modularzation.Form1.resources
+C:\Users\3006190\source\repos\Automotive Pricing ch6 modularzation\obj\Debug\Automotive_Pricing_ch6_modularzation.Properties.Resources.resources
+C:\Users\3006190\source\repos\Automotive Pricing ch6 modularzation\obj\Debug\Automotive Pricing ch6 modularzation.csproj.GenerateResource.cache
+C:\Users\3006190\source\repos\Automotive Pricing ch6 modularzation\obj\Debug\Automotive Pricing ch6 modularzation.csproj.CoreCompileInputs.cache
+C:\Users\3006190\source\repos\Automotive Pricing ch6 modularzation\bin\Debug\Automotive Pricing ch6 modularzation.exe.config
+C:\Users\3006190\source\repos\Automotive Pricing ch6 modularzation\bin\Debug\Automotive Pricing ch6 modularzation.exe
+C:\Users\3006190\source\repos\Automotive Pricing ch6 modularzation\bin\Debug\Automotive Pricing ch6 modularzation.pdb
+C:\Users\3006190\source\repos\Automotive Pricing ch6 modularzation\obj\Debug\Automotive Pricing ch6 modularzation.exe
+C:\Users\3006190\source\repos\Automotive Pricing ch6 modularzation\obj\Debug\Automotive Pricing ch6 modularzation.pdb

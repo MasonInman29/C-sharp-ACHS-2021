@@ -1,0 +1,10 @@
+C:\Users\3006190\source\repos\ch2LatinTranslator\bin\Debug\ch2LatinTranslator.exe.config
+C:\Users\3006190\source\repos\ch2LatinTranslator\bin\Debug\ch2LatinTranslator.exe
+C:\Users\3006190\source\repos\ch2LatinTranslator\bin\Debug\ch2LatinTranslator.pdb
+C:\Users\3006190\source\repos\ch2LatinTranslator\obj\Debug\ch2LatinTranslator.csprojAssemblyReference.cache
+C:\Users\3006190\source\repos\ch2LatinTranslator\obj\Debug\ch2LatinTranslator.Form1.resources
+C:\Users\3006190\source\repos\ch2LatinTranslator\obj\Debug\ch2LatinTranslator.Properties.Resources.resources
+C:\Users\3006190\source\repos\ch2LatinTranslator\obj\Debug\ch2LatinTranslator.csproj.GenerateResource.cache
+C:\Users\3006190\source\repos\ch2LatinTranslator\obj\Debug\ch2LatinTranslator.csproj.CoreCompileInputs.cache
+C:\Users\3006190\source\repos\ch2LatinTranslator\obj\Debug\ch2LatinTranslator.exe
+C:\Users\3006190\source\repos\ch2LatinTranslator\obj\Debug\ch2LatinTranslator.pdb

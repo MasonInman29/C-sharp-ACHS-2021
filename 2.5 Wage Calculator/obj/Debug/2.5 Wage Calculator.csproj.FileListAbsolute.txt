@@ -1,0 +1,10 @@
+C:\Users\3006190\source\repos\2.5 Wage Calculator\bin\Debug\2.5 Wage Calculator.exe.config
+C:\Users\3006190\source\repos\2.5 Wage Calculator\bin\Debug\2.5 Wage Calculator.exe
+C:\Users\3006190\source\repos\2.5 Wage Calculator\bin\Debug\2.5 Wage Calculator.pdb
+C:\Users\3006190\source\repos\2.5 Wage Calculator\obj\Debug\2.5 Wage Calculator.csprojAssemblyReference.cache
+C:\Users\3006190\source\repos\2.5 Wage Calculator\obj\Debug\_2._5_Wage_Calculator.PresQuestion.resources
+C:\Users\3006190\source\repos\2.5 Wage Calculator\obj\Debug\_2._5_Wage_Calculator.Properties.Resources.resources
+C:\Users\3006190\source\repos\2.5 Wage Calculator\obj\Debug\2.5 Wage Calculator.csproj.GenerateResource.cache
+C:\Users\3006190\source\repos\2.5 Wage Calculator\obj\Debug\2.5 Wage Calculator.csproj.CoreCompileInputs.cache
+C:\Users\3006190\source\repos\2.5 Wage Calculator\obj\Debug\2.5 Wage Calculator.exe
+C:\Users\3006190\source\repos\2.5 Wage Calculator\obj\Debug\2.5 Wage Calculator.pdb
